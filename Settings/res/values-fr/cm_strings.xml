@@ -18,6 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="about_cmupdate_settings_title">Mises à jour CyanogenMod</string>
   <string name="about_mod_version">Version CyanogenMod</string>
+  <string name="security_patch">Niveau du correctif de sécurité Android</string>
   <plurals name="show_dev_countdown_cm">
     <item quantity="one">Vous êtes maintenant à <xliff:g id="step_count">%1$d</xliff:g> étape de l\'activation des paramètres de développement.</item>
     <item quantity="other">Vous êtes maintenant à <xliff:g id="step_count">%1$d</xliff:g> étapes de l\'activation des paramètres de développement.</item>
@@ -35,7 +36,7 @@
   <string name="root_access_warning_title">Autoriser l\'accès root ?</string>
   <string name="root_access_warning_message">Autoriser les applications à demander un accès root est très dangereux et peux compromettre la sécurité de votre système !</string>
   <string name="root_access_none">Désactivé</string>
-  <string name="root_access_apps">Application uniquement</string>
+  <string name="root_access_apps">Applications uniquement</string>
   <string name="root_access_adb">ADB uniquement</string>
   <string name="root_access_all">Applications et ADB</string>
   <string name="update_recovery_title">Recovery Cyanogen</string>
